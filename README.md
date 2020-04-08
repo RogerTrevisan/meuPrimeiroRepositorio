@@ -4,4 +4,5 @@
 [x]criando repositorio no gitHub
 [x]fazendo git push
 [x]adcionando pelo site
-[]realizando fetch e pull
+[x]realizando fetch e pull
+[x]commit e push
